@@ -2,10 +2,10 @@
 
 Virkar allt að einhverju leyti.
 
-```bashCheckbox``` virka rétt.
+```Checkbox``` virka rétt.
 
-```bashEyða``` virkar ef maður tvíclickar.
+```Eyða``` virkar ef maður tvíclickar.
 
-```bashEdit``` virkar en soldið skringilega.
+```Edit``` virkar en soldið skringilega.
 
-```bashBæta við``` eyðileggur alla virkni en virkar.
+```Bæta við``` eyðileggur alla virkni en virkar.
