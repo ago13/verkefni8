@@ -1,11 +1,11 @@
-#Verkefni8#
+# Verkefni8
 
 Virkar allt að einhverju leyti.
 
-Checkbox virka rétt.
+```bashCheckbox``` virka rétt.
 
-Eyða virkar ef maður tvíclickar.
+```bashEyða``` virkar ef maður tvíclickar.
 
-Edit virkar en soldið skringilega.
+```bashEdit``` virkar en soldið skringilega.
 
-Bæta við eyðileggur alla virkni en virkar.
+```bashBæta við``` eyðileggur alla virkni en virkar.
